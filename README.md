@@ -1,0 +1,2 @@
+# MinJoonBlog
+MinJoon's Blog
